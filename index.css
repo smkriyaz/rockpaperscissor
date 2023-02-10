@@ -1,0 +1,12 @@
+.btn{
+    display: flex;
+    flex-direction: row;
+    width:50%;
+    text-align: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    flex-grow: 4;
+   
+
+}

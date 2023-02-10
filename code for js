@@ -1,0 +1,55 @@
+
+// let rock=document.getElementsByTagName("button")[0].addEventListener("click",roc);
+// let paper= document.getElementsByTagName("button")[1].addEventListener("click", pap);
+// let scissors= document.getElementsByTagName("button")[2].addEventListener("click",sci)
+
+// function roc(){
+//     let a=Math.random();
+// let b= (a*3)+1;
+// let c=Math.floor(b);
+// console.log(c);
+//   document.getElementsByTagName("p")[0].innerHTML="rock is selected"  ;
+//   if(c==1){
+//     alert("draw, computer choice is rock ");
+    
+//   }else if(c==2){
+//     alert("u lost, computer choice is paper");
+    
+//   }else{
+//     alert("won, computer choice is scissors");
+
+//   }
+// }
+
+// function pap(){
+//     let a=Math.random();
+//     let b= (a*3)+1;
+//     let c=Math.floor(b);
+//     document.getElementsByTagName("p")[0].innerHTML="paper is selected";
+//     if(c==1){
+//         alert("won,computer choic is rock");
+        
+//     }else if(c==2){
+//         alert("Draw ,computer choice is paper");
+        
+//     }else{
+//         alert(" u lost,computer choice is scissors");
+        
+//     }
+// }
+// function sci(){
+//     let a=Math.random();
+//     let b= (a*3)+1;
+//     let c=Math.floor(b);
+//     document.getElementsByTagName("p")[0].innerHTML="scissor is selected";
+//     if(c==1){
+//         alert(" u lost,computer choice is rock");
+        
+//     }else if(c==2){
+//         alert("win ,computer choice is paper");
+       
+//     }else{
+//         alert(" Draw,computer choice is scissors");
+       
+//     }
+// }
